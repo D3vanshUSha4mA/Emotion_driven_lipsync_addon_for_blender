@@ -1,1 +1,1 @@
-# MARL-for-drones
+# Emotion driven lipsync addon for blender
